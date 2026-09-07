@@ -1,7 +1,11 @@
 # macOS
 .DS_Store
 
+# Personal editor settings
+.vscode/
+
 # C++ build artifacts
+build/
 *.o
 *.obj
 *.exe
