@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# C++ build artifacts
+*.o
+*.obj
+*.exe
+*.out
+a.out
+*.d
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+cmake-build-*/
+
+# Debug and coverage artifacts
+*.dSYM/
+*.pdb
+*.idb
+*.ilk
+*.gcda
+*.gcno
+*.gcov
+.vs/
+.idea/
