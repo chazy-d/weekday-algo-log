@@ -1,5 +1,6 @@
 # Day NN — 문제 이름
 
+- 날짜:
 - 문제: [프로그래머스 링크](https://school.programmers.co.kr/)
 
 ## 태훈

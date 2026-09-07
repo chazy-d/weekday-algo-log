@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 21 — 과제 진행하기
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-30 (수)
+- 문제: [프로그래머스 — 과제 진행하기](https://school.programmers.co.kr/learn/courses/30/lessons/176962)
 
 ## 태훈
 

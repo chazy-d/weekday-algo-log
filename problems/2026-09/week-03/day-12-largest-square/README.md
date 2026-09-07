@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 12 — 가장 큰 정사각형 찾기
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-17 (목)
+- 문제: [프로그래머스 — 가장 큰 정사각형 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/12905)
 
 ## 태훈
 

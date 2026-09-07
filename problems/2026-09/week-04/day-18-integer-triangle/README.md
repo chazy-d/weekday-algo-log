@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 18 — 정수 삼각형
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-25 (금)
+- 문제: [프로그래머스 — 정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)
 
 ## 태훈
 

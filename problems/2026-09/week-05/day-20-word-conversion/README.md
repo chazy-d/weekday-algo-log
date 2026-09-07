@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 20 — 단어 변환
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-29 (화)
+- 문제: [프로그래머스 — 단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)
 
 ## 태훈
 

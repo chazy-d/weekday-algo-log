@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 35 — 사라지는 발판
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-10-20 (화)
+- 문제: [프로그래머스 — 사라지는 발판](https://school.programmers.co.kr/learn/courses/30/lessons/92345)
 
 ## 태훈
 

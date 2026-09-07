@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 11 — 리코쳇 로봇
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-16 (수)
+- 문제: [프로그래머스 — 리코쳇 로봇](https://school.programmers.co.kr/learn/courses/30/lessons/169199)
 
 ## 태훈
 

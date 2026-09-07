@@ -1,7 +1,7 @@
-# Day 04 — 2 x n 타일링
+# Day 17 — 프렌즈4블록
 
-- 날짜: 2026-09-07 (월)
-- 문제: [프로그래머스 — 2 x n 타일링](https://school.programmers.co.kr/learn/courses/30/lessons/12900)
+- 날짜: 2026-09-24 (목)
+- 문제: [프로그래머스 — 프렌즈4블록](https://school.programmers.co.kr/learn/courses/30/lessons/17679)
 
 ## 태훈
 
