@@ -2,6 +2,12 @@
 
 평일마다 같은 문제를 풀고, 각자의 코드와 짧은 기록을 남기는 저장소입니다.
 
+## 학습 방식
+
+- 매일 아침 Claude에게 현재 진도와 학습 흐름에 맞는 문제를 추천받아 풀이한다.
+- 첫 풀이에서는 [프로그래머스 가림판](https://chromewebstore.google.com/detail/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%A8%B8%EC%8A%A4-%EA%B0%80%EB%A6%BC%ED%8C%90/bbmpfkionnjggoeioleplhfbagmopgcb)을 사용해 문제 유형과 난이도를 가린다.
+- 문제를 푼 뒤에는 코드와 함께 막힌 지점, 사용한 핵심 개념, 다음에 보완할 점을 기록한다.
+
 ## 폴더 구조
 
 ```text
